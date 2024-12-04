@@ -1,3 +1,6 @@
 # Ignore Data files
 Data/
 mel_spectrogram_imgs/
+
+# Mac-Specific
+.DS_Store
